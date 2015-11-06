@@ -1,0 +1,8 @@
+23:21:07.676	Start Listening
+23:25:14.736	Exception of type 'System.OutOfMemoryException' was thrown. System.Threading.ExecutionContext CreateCopy()
+23:27:54.369	Start Listening
+23:29:21.888	Exception of type 'System.OutOfMemoryException' was thrown. System.Threading.ExecutionContext CreateCopy()
+23:34:23.479	Start Listening
+23:41:00.495	Exception of type 'System.OutOfMemoryException' was thrown. System.Threading.ExecutionContext CreateCopy()
+23:42:18.799	Start Listening
+23:43:40.579	Exception of type 'System.OutOfMemoryException' was thrown.at: Void StartListenning()

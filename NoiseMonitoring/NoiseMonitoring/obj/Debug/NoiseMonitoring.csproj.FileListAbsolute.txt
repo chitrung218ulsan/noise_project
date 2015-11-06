@@ -1,0 +1,15 @@
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\NoiseMonitoring.exe.config
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\NoiseMonitoring.exe
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\NoiseMonitoring.pdb
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\obj\Debug\NoiseMonitoring.Properties.Resources.resources
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\obj\Debug\NoiseMonitoring.csproj.GenerateResource.Cache
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\obj\Debug\NoiseMonitoring.exe
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\obj\Debug\NoiseMonitoring.pdb
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\obj\Debug\NoiseMonitoring.Form1.resources
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\EntityFramework.dll
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\EntityFramework.SqlServer.dll
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\EntityFramework.xml
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\EntityFramework.SqlServer.xml
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\MySql.Data.dll
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\bin\Debug\MySql.Data.Entity.EF6.dll
+K:\noise_project\NoiseMonitoring\NoiseMonitoring\obj\Debug\NoiseMonitoring.csprojResolveAssemblyReference.cache
